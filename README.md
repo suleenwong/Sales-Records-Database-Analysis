@@ -1,6 +1,6 @@
 # Sales Records Database Analysis
 
-The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
+The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. The Tableau dashboard for this project can be found [here](https://public.tableau.com/app/profile/suleenwong/viz/SalesRecordsAnalysisDashboard/Story).
 
 The database contains eight tables:
 
@@ -54,6 +54,7 @@ The number of clients has been decreasing since 2003, and in 2004, we had the lo
 To determine how much money we can spend acquiring new customers, we can compute the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. We can then determine how much we can spend on marketing.
 
 The customer Lifetime Value (LTV) tells us how much profit an average customer generates during their lifetime with our store. We can use it to predict our future profit. So, if we get ten new customers next month, we'll earn 390,395 dollars, and we can decide based on this prediction how much we can spend on acquiring new customers.
+
 
 <br>
 
