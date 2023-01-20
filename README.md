@@ -59,8 +59,7 @@ The customer Lifetime Value (LTV) tells us how much profit an average customer g
 <br>
 
 # Tools: 
-- PostgreSQL 
-- pgadmin 4
+- PostgreSQL in pgAdmin 4
 - Tableau
 
 <br>
