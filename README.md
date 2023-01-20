@@ -1,6 +1,6 @@
 # Sales Records Database Analysis
 
-The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. The Tableau dashboard for this project can be found [here](https://public.tableau.com/app/profile/suleenwong/viz/SalesRecordsAnalysisDashboard/Story).
+The goal of this project is to analyze data from a sales records database for a business selling scale model cars and extract information for decision-making. The Tableau dashboard for this project can be found [here](https://public.tableau.com/app/profile/suleenwong/viz/SalesRecordsAnalysisDashboard/Story).
 
 The database contains eight tables:
 
